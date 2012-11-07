@@ -5846,9 +5846,9 @@ a.badge:hover {
 .hero-unit {
   padding: 60px;
   margin-bottom: 30px;
-  background-image: url(../cloud2.png);
+  background-image: url(../cables.png);
   background-repeat: no-repeat;
-  background-size: 70%;
+  background-size: 100%;
   background-position: right top;
   font-size: 18px;
   font-weight: 200;
