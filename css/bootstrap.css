@@ -162,6 +162,7 @@ body {
   margin: 0;
   font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
+  font-weight: 300;
   line-height: 20px;
   color: #333333;
   background-color: #ffffff;
@@ -656,9 +657,10 @@ h6 {
   margin: 10px 0;
   font-family: inherit;
   /* font-weight: bold; */
-  font-weight: normal;
+  font-weight: 300;
   line-height: 20px;
-  color: inherit;
+  /* color: inherit; */
+  color:#880011;
   text-rendering: optimizelegibility;
 }
 
@@ -668,7 +670,8 @@ h3 small,
 h4 small,
 h5 small,
 h6 small {
-  font-weight: normal;
+  /* font-weight: normal; */
+  font-weight: 300;
   line-height: 1;
   color: #999999;
 }
@@ -688,7 +691,8 @@ h2 {
 }
 
 h3 {
-  font-size: 24.5px;
+  /* font-size: 24.5px; */
+  font-size: 28.5px;
 }
 
 h4 {
@@ -955,7 +959,8 @@ button,
 select,
 textarea {
   font-size: 14px;
-  font-weight: normal;
+  /* font-weight: normal; */
+  font-weight: 300;
   line-height: 20px;
 }
 
@@ -964,6 +969,7 @@ button,
 select,
 textarea {
   font-family: Nunito, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 
 label {
@@ -1613,7 +1619,8 @@ select:focus:required:invalid:focus {
   min-width: 16px;
   padding: 4px 5px;
   font-size: 14px;
-  font-weight: normal;
+  /* font-weight: normal; */
+  font-weight: 300;
   line-height: 20px;
   text-align: center;
   text-shadow: 0 1px 0 #ffffff;
@@ -2813,7 +2820,8 @@ table th[class*="span"],
   display: block;
   padding: 3px 20px;
   clear: both;
-  font-weight: normal;
+  /* font-weight: normal; */
+  font-weight: 300;
   line-height: 20px;
   color: #333333;
   white-space: nowrap;
@@ -4321,7 +4329,8 @@ input[type="submit"].btn.btn-mini {
   margin-bottom: 0;
   font-family: Nunito, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
-  font-weight: normal;
+  /* font-weight: normal; */
+  font-weight: 300;
   line-height: 1;
   -webkit-border-radius: 15px;
      -moz-border-radius: 15px;
