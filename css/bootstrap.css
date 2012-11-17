@@ -691,8 +691,8 @@ h2 {
 }
 
 h3 {
-  /* font-size: 24.5px; */
-  font-size: 28.5px;
+  font-size: 24.5px;
+  /* font-size: 28.5px; */
 }
 
 h4 {
@@ -5856,10 +5856,10 @@ a.badge:hover {
 .hero-unit {
   padding: 60px;
   margin-bottom: 30px;
-  background-image: url(../cables2.png);
+  background-image: url(../lod.png);
   background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: right top;
+  background-size: 120%;
+  background-position: center center;
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
