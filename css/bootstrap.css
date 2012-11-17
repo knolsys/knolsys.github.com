@@ -586,6 +586,7 @@ a:hover {
 }
 
 p {
+  text-align: justify;
   margin: 0 0 10px;
 }
 
@@ -5858,8 +5859,8 @@ a.badge:hover {
   margin-bottom: 30px;
   background-image: url(../lod.jpg);
   background-repeat: no-repeat;
-  /* background-size: 120%; */
-  background-position: 38% 50%;
+  background-size: 1280px;
+  background-position: 30% 48%;
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
